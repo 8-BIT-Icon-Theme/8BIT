@@ -1,4 +1,4 @@
-8BIT
+8-BIT
 ====
 
 [8-BIT] is acronym of the [8-BIT Icon Theme].
